@@ -1,9 +1,17 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a software developer with a strong interest in backend engineering, system-level programming, and building practical tools that solve real problems. I enjoy working close to the logic of a system—designing APIs, automation workflows, and performance-focused components rather than just surface-level features.<br><br>I like understanding how things work end-to-end, from low-level execution to user-facing interfaces. My projects often focus on clean architecture, reliability, and clarity, with an emphasis on building software that could realistically be used in production.<br><br>I’m continuously sharpening my skills by building real projects, documenting my decisions, and challenging myself with systems that require discipline, structure, and thoughtful design.
 
+# Ntumba Kalongo
+Full-stack developer in South Africa. I build production web systems: booking and payments, multi-tenant platforms, backend services. Founder of Preeminence Labs.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Selected work
+- **NEXUS** - multi-tenant incident and DevOps platform. RBAC, PostgreSQL/Redis, SSE live updates, Playwright e2e in CI. https://github.com/Ntumba9/nexus
+- **KwaNomzi Boutique Lodge** - live booking and payment platform for a real client. Next.js, Prisma/MySQL, Yoco webhooks, DB-enforced double-booking protection. https://www.kwanomzilodge.co.za
+- **Preeminence Labs** - my web and software studio. https://preeminencelabs.co.za
 
+## Stack
+TypeScript, React, Next.js, Node, PostgreSQL, MySQL, Prisma, Redis, Playwright, Python, Java, C, Kotlin, Firebase, Azure
+
+## Contact
+kalongontumba03@gmail.com | [LinkedIn](https://www.linkedin.com/in/ntumba-kalongo-427a463a3/) | https://preeminencelabs.co.za
